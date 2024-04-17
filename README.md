@@ -1,8 +1,9 @@
 # StreamLingo
+![StreamLingo Logo](https://github.com/OSCOWL/Streamlingo_Voicesync/assets/91824434/a14ea484-eaed-4cd7-a2e6-fb1793e02785)
 
 ## Overview
 
-StreamLingo is a language translation software designed to facilitate seamless and authentic communication across diverse linguistic backgrounds. Unlike traditional translation tools, StreamLingo focuses on preserving the original speaker's voice and vocal characteristics, allowing users to switch between languages in real-time.
+StreamLingo is a language translation software that facilitates seamless and authentic communication across diverse linguistic backgrounds. Unlike traditional translation tools, StreamLingo focuses on preserving the original speaker's voice and vocal characteristics, allowing users to switch between languages in real time.
 
 ## Key Features
 
